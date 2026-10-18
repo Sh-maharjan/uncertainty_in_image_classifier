@@ -1,5 +1,7 @@
 Understanding Uncertainty and Accuracy in an Image Classifier
 
+Access this in Kaggle: https://www.kaggle.com/code/shreenijmaharjan/understanding-uncertainty-and-accuracy
+
 This notebook trains an image classifier that classifies high-rise buildings from low-rise houses. Following which an uncertainty analysis is taken to evaluate confidence and accuracy scores to understand:
 
 1\. Model behaviour and performance against different image categories
